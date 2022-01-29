@@ -1,6 +1,6 @@
 # YouTube Thumbnail Complexity Data Analysis
-### This repo is for Steven, Nico, and Chris to work on YouTube thumbnail complexity analysis for Sandbox.
-
+### This repository includes the Civic Project Outcomes from the Team click.ai in cooperation with Sandbox Network, Inc. Korea.
+### Author: Steven H. Yang, Christopher Fok, Nico Gankhuyag, Saad Bin Ihsan, FNU Eisha, and Hugo Siu.
 
 ## Objective
 This notebook will analyze thumbnail data using the data science lifecylce. This civic project is a collaboration between Minerva University (Fall 2021, Sophomore, Seoul) and Sandbox Network. Sandbox is a leading multi-channel network (MCN) in South Korea that supports over 450 digital creators and their content.
